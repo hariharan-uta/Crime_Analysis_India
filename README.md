@@ -1,6 +1,7 @@
 # Crime Analysis in India (2001–2014)
 
 **A data visualization and analytics project developed for UTA Datathon 2025.**  
+
 This project explores trends in crimes reported under the Indian Penal Code (IPC) across Indian districts from 2001 to 2014. It leverages geospatial data, statistical modeling, and interactive dashboards to extract insights and support public policy discussions.
 
 ## Table of Contents
@@ -10,8 +11,6 @@ This project explores trends in crimes reported under the Indian Penal Code (IPC
 - [Tech Stack](#tech-stack)
 - [Project Files](#project-files)
 - [How to Run](#how-to-run)
-- [Dataset Source](#dataset-source)
-- [Team & Acknowledgements](#team--acknowledgements)
 
 ## Overview
 
